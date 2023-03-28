@@ -1,0 +1,156 @@
+Overall sentiment dictionary is :  {'neg': 0.164, 'neu': 0.56, 'pos': 0.276, 'compound': 1.0}
+text was rated as  16.400000000000002 % Negative
+text was rated as  56.00000000000001 % Neutral
+text was rated as  27.6 % Positive
+Text Overall Rated As Positive
+=======================
+Overall sentiment dictionary is :  {'neg': 0.118, 'neu': 0.731, 'pos': 0.152, 'compound': 0.4404}
+text was rated as  11.799999999999999 % Negative
+text was rated as  73.1 % Neutral
+text was rated as  15.2 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.176, 'neu': 0.509, 'pos': 0.315, 'compound': 0.8752}
+text was rated as  17.599999999999998 % Negative
+text was rated as  50.9 % Neutral
+text was rated as  31.5 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.161, 'neu': 0.539, 'pos': 0.3, 'compound': 0.9956}
+text was rated as  16.1 % Negative
+text was rated as  53.900000000000006 % Neutral
+text was rated as  30.0 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.267, 'neu': 0.584, 'pos': 0.149, 'compound': -0.9552}
+text was rated as  26.700000000000003 % Negative
+text was rated as  58.4 % Neutral
+text was rated as  14.899999999999999 % Positive
+Text Overall Rated As Negative
+Overall sentiment dictionary is :  {'neg': 0.119, 'neu': 0.569, 'pos': 0.312, 'compound': 0.8885}
+text was rated as  11.899999999999999 % Negative
+text was rated as  56.89999999999999 % Neutral
+text was rated as  31.2 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.06, 'neu': 0.432, 'pos': 0.509, 'compound': 0.9931}
+text was rated as  6.0 % Negative
+text was rated as  43.2 % Neutral
+text was rated as  50.9 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.142, 'neu': 0.586, 'pos': 0.272, 'compound': 0.975}
+text was rated as  14.2 % Negative
+text was rated as  58.599999999999994 % Neutral
+text was rated as  27.200000000000003 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.217, 'neu': 0.593, 'pos': 0.19, 'compound': -0.7717}
+text was rated as  21.7 % Negative
+text was rated as  59.3 % Neutral
+text was rated as  19.0 % Positive
+Text Overall Rated As Negative
+Overall sentiment dictionary is :  {'neg': 0.117, 'neu': 0.585, 'pos': 0.298, 'compound': 0.872}
+text was rated as  11.700000000000001 % Negative
+text was rated as  58.5 % Neutral
+text was rated as  29.799999999999997 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.133, 'neu': 0.588, 'pos': 0.278, 'compound': 0.9382}
+text was rated as  13.3 % Negative
+text was rated as  58.8 % Neutral
+text was rated as  27.800000000000004 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.124, 'neu': 0.638, 'pos': 0.238, 'compound': 0.9423}
+text was rated as  12.4 % Negative
+text was rated as  63.800000000000004 % Neutral
+text was rated as  23.799999999999997 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.294, 'pos': 0.706, 'compound': 0.5859}
+text was rated as  0.0 % Negative
+text was rated as  29.4 % Neutral
+text was rated as  70.6 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.112, 'neu': 0.611, 'pos': 0.277, 'compound': 0.9935}
+text was rated as  11.200000000000001 % Negative
+text was rated as  61.1 % Neutral
+text was rated as  27.700000000000003 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.128, 'neu': 0.391, 'pos': 0.48, 'compound': 0.872}
+text was rated as  12.8 % Negative
+text was rated as  39.1 % Neutral
+text was rated as  48.0 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.054, 'neu': 0.674, 'pos': 0.272, 'compound': 0.8126}
+text was rated as  5.4 % Negative
+text was rated as  67.4 % Neutral
+text was rated as  27.200000000000003 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.7579}
+text was rated as  0.0 % Negative
+text was rated as  58.099999999999994 % Neutral
+text was rated as  41.9 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.084, 'neu': 0.652, 'pos': 0.264, 'compound': 0.9705}
+text was rated as  8.4 % Negative
+text was rated as  65.2 % Neutral
+text was rated as  26.400000000000002 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.211, 'neu': 0.556, 'pos': 0.233, 'compound': 0.1531}
+text was rated as  21.099999999999998 % Negative
+text was rated as  55.60000000000001 % Neutral
+text was rated as  23.3 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.32, 'neu': 0.44, 'pos': 0.239, 'compound': -0.9934}
+text was rated as  32.0 % Negative
+text was rated as  44.0 % Neutral
+text was rated as  23.9 % Positive
+Text Overall Rated As Negative
+Overall sentiment dictionary is :  {'neg': 0.068, 'neu': 0.451, 'pos': 0.481, 'compound': 0.9682}
+text was rated as  6.800000000000001 % Negative
+text was rated as  45.1 % Neutral
+text was rated as  48.1 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.153, 'neu': 0.127, 'pos': 0.72, 'compound': 0.9246}
+text was rated as  15.299999999999999 % Negative
+text was rated as  12.7 % Neutral
+text was rated as  72.0 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.797, 'pos': 0.203, 'compound': 0.4215}
+text was rated as  0.0 % Negative
+text was rated as  79.7 % Neutral
+text was rated as  20.3 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.325, 'neu': 0.433, 'pos': 0.242, 'compound': -0.4404}
+text was rated as  32.5 % Negative
+text was rated as  43.3 % Neutral
+text was rated as  24.2 % Positive
+Text Overall Rated As Negative
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.5719}
+text was rated as  0.0 % Negative
+text was rated as  51.9 % Neutral
+text was rated as  48.1 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.141, 'neu': 0.552, 'pos': 0.307, 'compound': 0.5859}
+text was rated as  14.099999999999998 % Negative
+text was rated as  55.2 % Neutral
+text was rated as  30.7 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.101, 'neu': 0.619, 'pos': 0.28, 'compound': 0.8519}
+text was rated as  10.100000000000001 % Negative
+text was rated as  61.9 % Neutral
+text was rated as  28.000000000000004 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.134, 'neu': 0.279, 'pos': 0.586, 'compound': 0.9834}
+text was rated as  13.4 % Negative
+text was rated as  27.900000000000002 % Neutral
+text was rated as  58.599999999999994 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.246, 'neu': 0.679, 'pos': 0.075, 'compound': -0.9197}
+text was rated as  24.6 % Negative
+text was rated as  67.9 % Neutral
+text was rated as  7.5 % Positive
+Text Overall Rated As Negative
+Overall sentiment dictionary is :  {'neg': 0.115, 'neu': 0.513, 'pos': 0.372, 'compound': 0.9779}
+text was rated as  11.5 % Negative
+text was rated as  51.300000000000004 % Neutral
+text was rated as  37.2 % Positive
+Text Overall Rated As Positive
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.44, 'pos': 0.56, 'compound': 0.9744}
+text was rated as  0.0 % Negative
+text was rated as  44.0 % Neutral
+text was rated as  56.00000000000001 % Positive
+Text Overall Rated As Positive
