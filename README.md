@@ -1,3 +1,6 @@
+# 영화 리뷰 / 감성 상관관계 분석
+
+참조 프로젝트 README.md
 # Naver sentiment movie corpus v1.0
 
 This is a movie review dataset in the Korean language.
